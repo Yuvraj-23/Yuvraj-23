@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Yuvraj<br><br>🎓 BTech CSE Student | 💻 Aspiring Full-Stack Developer<br>Passionate about **Web Development, Problem Solving, and learning new technologies.**<br>Currently working with **HTML, CSS, JavaScript, React, Python & C++**. 🚀<br><br>
+# Hi 👋, I'm Yuvraj<br><br>🎓 💻 Aspiring Full-Stack Developer<br>Passionate about **Web Development, Problem Solving, and learning new technologies.**<br>Currently working with **HTML, CSS, JavaScript, React, Python & C++**. 🚀<br><br>
 
 
 ## 🌐 Socials:
