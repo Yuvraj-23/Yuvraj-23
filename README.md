@@ -27,34 +27,24 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-23&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Yuvraj-23&show_icons=true&theme=github-compact&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj-23&layout=compact&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-23&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj-23&theme=github-compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-23&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvraj-23&theme=github-compact&hide_border=true" />
 </p>
-
-<br/>
-
-### 🐍 Contribution Snake Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj-23/Yuvraj-23/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Note: this snake graph needs a one-time GitHub Actions setup (below) — it isn't a static image link like the others.
 
 <br/>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-23&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-23&theme=flat&no-frame=true&column=7&margin-w=8" />
 </p>
 
 <br/>
@@ -70,12 +60,12 @@
 ### 📌 Popular Repositories
 
 <p align="center">
-  <a href="https://github.com/Yuvraj-23/BlogZen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=BlogZen&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Yuvraj-23/billing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=billing&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Yuvraj-23/BlogZen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=BlogZen&theme=github-compact&hide_border=true" /></a>
+  <a href="https://github.com/Yuvraj-23/billing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=billing&theme=github-compact&hide_border=true" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Yuvraj-23/Notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=Notes&theme=tokyonight&hide_border=true" /></a>
-  <a href="https://github.com/Yuvraj-23/prtflio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=prtflio&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Yuvraj-23/Notes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=Notes&theme=github-compact&hide_border=true" /></a>
+  <a href="https://github.com/Yuvraj-23/prtflio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj-23&repo=prtflio&theme=github-compact&hide_border=true" /></a>
 </p>
 
 <br/>
