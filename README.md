@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  🔭 Third-year IT undergrad building full stack web projects &nbsp;|&nbsp;
+  🔭 Second-year B.Tech student building full stack web projects &nbsp;|&nbsp;
   🌱 Learning <b>NextJS</b> & <b>Redux Toolkit</b> &nbsp;|&nbsp;
   💬 Ask me about React & JS
 </p>
@@ -59,9 +59,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yuvrajofficial23/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Yuvrajr04/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
-  <a href="mailto:upadhyayyuvraj23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:yuvrajr2307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br/>
